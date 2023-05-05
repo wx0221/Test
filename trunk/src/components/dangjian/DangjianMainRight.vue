@@ -47,25 +47,25 @@
         label="出生日期"
         min-width="15%">
       </el-table-column>
-      <el-table-column
-        prop="nation"
-        label="民族"
-        min-width="12%">
-      </el-table-column>
-      <el-table-column
-        prop="id"
-        label="身份证号"
-        sortable
-        show-overflow-tooltip
-        min-width="17%">
-      </el-table-column>
-      <el-table-column
-        prop="area"
-        label="所属组织"
-        show-overflow-tooltip
-        min-width="13%">
-      </el-table-column>
-      <el-table-column
+      <!--<el-table-column-->
+        <!--prop="nation"-->
+        <!--label="民族"-->
+        <!--min-width="12%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
+        <!--prop="id"-->
+        <!--label="身份证号"-->
+        <!--sortable-->
+        <!--show-overflow-tooltip-->
+        <!--min-width="17%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
+        <!--prop="area"-->
+        <!--label="所属组织"-->
+        <!--show-overflow-tooltip-->
+        <!--min-width="13%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
         fixed="right"
         label="操作"
         min-width="30%">

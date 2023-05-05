@@ -24,29 +24,29 @@
       <el-table-column
         type="selection">
       </el-table-column>
-      <el-table-column
-        prop="name"
-        label="栏目名称"
-        sortable
-        min-width="14%">
-      </el-table-column>
-      <el-table-column
-        prop="header"
-        label="所属上级"
-        min-width="10%">
-      </el-table-column>
-      <el-table-column
-        prop="people"
-        label="操作人"
-        sortable
-        min-width="13%">
-      </el-table-column>
-      <el-table-column
-        prop="time"
-        label="操作时间"
-        sortable
-        min-width="19%">
-      </el-table-column>
+      <!--<el-table-column-->
+        <!--prop="name"-->
+        <!--label="栏目名称"-->
+        <!--sortable-->
+        <!--min-width="14%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
+        <!--prop="header"-->
+        <!--label="所属上级"-->
+        <!--min-width="10%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
+        <!--prop="people"-->
+        <!--label="操作人"-->
+        <!--sortable-->
+        <!--min-width="13%">-->
+      <!--</el-table-column>-->
+      <!--<el-table-column-->
+        <!--prop="time"-->
+        <!--label="操作时间"-->
+        <!--sortable-->
+        <!--min-width="19%">-->
+      <!--</el-table-column>-->
       <el-table-column
         prop="status"
         label="状态"

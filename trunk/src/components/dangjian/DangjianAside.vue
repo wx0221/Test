@@ -15,6 +15,11 @@
             title:'党务中心',
             subs:[
               {
+
+
+
+
+
                 index:'#1-1',
                 title:'党组织管理',
                 subs:[
@@ -26,36 +31,45 @@
                     index:'outstanding_organ',
                     title:'优秀党组织'
                   }
+
+
+
+
+
+
+
+
                 ],
               },
               {
                 index:'party_posts',
                 title:'党内职务管理'
               },
+              //
               {
                 index:'#1-3',
                 title:'党员管理',
-                subs:[
-                  {
-                    index:'list',
-                    title:'党员列表'
-                  },
-                  {
-                    index:'history',
-                    title:'历史党员'
-                  },
-                  {
-                    index:'outstanding',
-                    title:'优秀党员'
-                  }
-                ],
-              },
-              {
-                index:'party_develop',
-                title:'党员发展全纪实'
-              },
-              {
-                index:'#1-5',
+              //   subs:[
+              //     {
+              //       index:'list',
+              //       title:'党员列表'
+              //     },
+              //     {
+              //       index:'history',
+              //       title:'历史党员'
+              //     },
+              //     {
+              //       index:'outstanding',
+              //       title:'优秀党员'
+              //     }
+              //   ],
+              // },
+              // {
+              //   index:'party_develop',
+              //   title:'党员发展全纪实'
+              // },
+              // {
+              //   index:'#1-5',
                 title:'党员关系转移',
                 subs:[
                   {
@@ -84,26 +98,26 @@
               },
               {
                 index:'fee',
-                title:'党费缴纳记录'
-              },
-              {
-                index:'birthday',
-                title:'政治生日'
-              },
-            ],
-          },
-          {
-            index:'#2',
-            title:'学习平台',
-            subs:[
-              {
-                index:'setting',
-                title:'专题设置'
-              },
-              {
-                index:'#2-2',
-                title:'学习资料管理',
-                subs:[
+          //       title:'党费缴纳记录'
+          //     },
+          //     {
+          //       index:'birthday',
+          //       title:'政治生日'
+          //     },
+          //   ],
+          // },
+          // {
+          //   index:'#2',
+          //   title:'学习平台',
+          //   subs:[
+          //     {
+          //       index:'setting',
+          //       title:'专题设置'
+          //     },
+          //     {
+          //       index:'#2-2',
+          //       title:'学习资料管理',
+          //       subs:[
                   {
                     index:'column',
                     title:'学习资料栏目'
@@ -169,19 +183,19 @@
                   {
                     index:'log_party',
                     title:'品牌党建日志'
-                  },
-                ]
-              },
-              {
-                index:'#3-5',
-                title:'第一书记',
-                subs:[
-                  {
-                    index:'first_setting',
-                    title:'第一书记设置'
-                  },
-                  {
-                    index:'first_dynamic',
+              //     },
+              //   ]
+              // },
+              // {
+              //   index:'#3-5',
+              //   title:'第一书记',
+              //   subs:[
+              //     {
+              //       index:'first_setting',
+              //       title:'第一书记设置'
+              //     },
+              //     {
+              //       index:'first_dynamic',
                     title:'第一书记动态'
                   },
                   {

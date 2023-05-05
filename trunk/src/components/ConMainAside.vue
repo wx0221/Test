@@ -9,28 +9,28 @@
 </template>
 
 <script>
-    export default {
-        name: "ConMainAside",
-      props:{
-        name:String,
-        data:Array
-      },
-      data(){
-          return {
-            add:require('./images/4add.png'),
-            defaultProps: {
-              children: 'children',
-              label: 'label'
-            }
-          }
-      },
-      methods:{
-        handleNodeClick(data) {
-          console.log(data);
-        },
-      }
-    }
-</script>
+    <!--export default {-->
+        <!--name: "ConMainAside",-->
+      <!--props:{-->
+        <!--name:String,-->
+        <!--data:Array-->
+      <!--},-->
+      <!--data(){-->
+          <!--return {-->
+            <!--add:require('./images/4add.png'),-->
+            <!--defaultProps: {-->
+              <!--children: 'children',-->
+              <!--label: 'label'-->
+            <!--}-->
+          <!--}-->
+      <!--},-->
+      <!--methods:{-->
+        <!--handleNodeClick(data) {-->
+          <!--console.log(data);-->
+        <!--},-->
+      <!--}-->
+    <!--}-->
+<!--</script>-->
 
 <style scoped>
   .mainLeft {
